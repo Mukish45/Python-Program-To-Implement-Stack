@@ -38,4 +38,3 @@ while True:
         break
     else:
         print("\nInvalid entry!!!\n")
-print(type(stack))
